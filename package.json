@@ -9,6 +9,7 @@
     "jspack": "0.0.4",
     "moment": "^2.29.1",
     "mqtt": "^4.3.6",
+    "nanoid": "^3.1.30",
     "serialport": "^10.4.0",
     "shortid": "^2.2.16",
     "underscore": "^1.13.2"
